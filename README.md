@@ -28,6 +28,9 @@ Con el proposito de poner en practica lo aprendido en el curso de Kafka Administ
 ### PyMongo
         python -m pip install pymongo
 
+## Arquitectura
+![Arquitectura Kaftter](https://github.com/jonathany23/kaftter/blob/main/util/img/arqutectura.png?raw=true)
+
 ## Ejecución
 1. Descargue los binarios de Apache Kafka y Apache Zookeeper "kafka-standalone":
 
